@@ -1,8 +1,8 @@
 ~~~
-<div id="07874c7b-f0d6-4e42-8551-701c8991ed56" data-jscall-id="128">
+<div id="ef048a11-71ac-420c-b4e8-75c3e505e240" data-jscall-id="128">
   <div data-jscall-id="122">
     <div class=" flex flex-row" data-jscall-id="121">
-      <input step="1" max="360" min="0" data-jscall-id="123" value="0" oninput="JSServe.update_obs('4341311261129357983', parseFloat(value))" type="range" />
+      <input step="1" max="360" min="0" data-jscall-id="123" value="0" oninput="JSServe.update_obs('6554593320894540902', parseFloat(value))" type="range" />
       <div class="h-6 w-6 p-2 m-2 rounded shadow" data-jscall-id="120"></div>
     </div>
   </div>
@@ -23,11 +23,11 @@
 </script>
   <script data-jscall-id="127" type="text/javascript">
 (()=> {
-    JSServe.register_sub_session('07874c7b-f0d6-4e42-8551-701c8991ed56')
-    const init_data_b64 = 'H4sIAAAAAAAAA8WTz0/CMBTH5epf0ZAQIC6kXbduO+AFTxz8EY7GNGWrMB3r0rUEYrzgX+DRo5qAd/4O/wD/GwcielggMhKbtHlJv+/lfb6vncwSNo4EC54evqODlzCYW9hCGCGTZNvDtuO5+G2Q9qgaJ/zZXmsnc0pv2JClvgwTtbyldNrutETA15ppKrT0+YcvudIyBtc69lUoYlDra16/OwTZopQPWUR9ESs+UpRewqtGqsYRb3SZf9uTQsdBS0RCgiYo99OoVgZHIEvPzrJBYMWwYaVePryfrSo85nY2OxGD01+tvSITbqVFa9rSQutYlo0RMTFEpokdz3HdPGfeS/2FmiCICTQRIlkGRhaEuT4uPbdNCzrEJZ5rE+gSy/Tswp6frzzPzNW8eQzanQ6XQ97QScAUp3GWQ5lSMuxqxWs5UzBANVU8qRpfJep/NhhvNQ3thna2B7QBGxUk2zjg/yQL44JkG5/jjmQXeyBb5hZk2/zhf0LvE0SrFa8gBQAA'
+    JSServe.register_sub_session('ef048a11-71ac-420c-b4e8-75c3e505e240')
+    const init_data_b64 = 'H4sIAAAAAAAAA8WTT0/CMBjG5cqnaJYQIC6k3datO+AFTxz8E47GNGWrMB3rsnUEYrzgJ/DoUU3AO34NP4DfxoKIHhaIjMQemiZ9njfv73nbySxm41Aw//H++3TwHPhzG2MLu6ZpQOJa2IIuNF4HaY/Kccyf8Fo7mVN6zYYs9ZIglstbSqftTkv4fK2ZpiJLPP7hJVxmSQSussiTgYhArZ/x+m0ZqEUpH7KQeiKSfCQpvYCXjVSOQ97oMu+ml4gs8lsiFAloAq2fhjUNHAJlV7um27CiY1ipa+W72arCQ25ns2MxOPnV2gsy4FZatKYtLbQImtZChBExsOM6BLl5ybyX+kr9hkzo2NAxLFuVJ1hZCMyTL0M3MSQQ2xg5mFg2IqbjFA79bBW6SjfjzSPQ7nR4MuSNLPaZ5DRSHsqkTIJuJnktZww6qKaSx1X9q0T9zwmbW1NDu6Gd7gFtwEbFyLZM+D/Rgqjg0Da+xx3JzvdAtvQWZNv85X+O7iflAMRLIgUAAA=='
     JSServe.init_from_b64(init_data_b64)
     if (!true){
-        JSServe.update_obs('3345896695378292727', true)
+        JSServe.update_obs('16429506923639564976', true)
     }
 })()
 </script>
